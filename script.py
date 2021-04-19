@@ -239,7 +239,7 @@ mouse.click(Button.left, 1)
 ##sleep
 sleep(12)
 def first():
-	url = ['gestyy.com/ey2pMV','gestyy.com/eyR2QO','gestyy.com/eyETAR']
+    url = ['gestyy.com/ey2pMV','gestyy.com/eyR2QO','gestyy.com/eyETAR']
     ##max tor
     mouse.position = (975, 11)
     mouse.click(Button.left, 1)
