@@ -430,7 +430,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(3)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -463,7 +463,7 @@ while True:
     sleep(0.5)
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
-    sleep(0.5)
+    sleep(1)
 
 
     ##scond page
@@ -473,7 +473,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(3)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -516,7 +516,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(3)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -549,7 +549,7 @@ while True:
     sleep(0.5)
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
-    sleep(0.5)
+    sleep(1)
 
 
 
@@ -560,7 +560,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(3)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -593,5 +593,4 @@ while True:
     sleep(0.5)
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
-    sleep(0.5)
-    
+    sleep(1)
