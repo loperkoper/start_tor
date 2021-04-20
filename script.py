@@ -468,11 +468,11 @@ while True:
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(2)
     ##click yes2
     mouse.position = (985, 359)
     mouse.click(Button.left, 1)
-    sleep(5)
+    sleep(6)
     ##max tor
     mouse.position = (975, 11)
     mouse.click(Button.left, 1)
@@ -506,11 +506,11 @@ while True:
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(2)
     ##click yes2
     mouse.position = (985, 359)
     mouse.click(Button.left, 1)
-    sleep(5)
+    sleep(6)
     ##max tor
     mouse.position = (975, 11)
     mouse.click(Button.left, 1)
@@ -543,7 +543,7 @@ while True:
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(2)
     ##click yes2
     mouse.position = (985, 359)
     mouse.click(Button.left, 1)
@@ -581,11 +581,11 @@ while True:
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(2)
     ##click yes2
     mouse.position = (985, 359)
     mouse.click(Button.left, 1)
-    sleep(5)
+    sleep(6)
     ##max tor
     mouse.position = (975, 11)
     mouse.click(Button.left, 1)
