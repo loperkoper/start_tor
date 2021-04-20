@@ -44,7 +44,7 @@ sleep(5)
 mouse.position = (592, 300)
 mouse.click(Button.left, 1)
 ##sleep
-sleep(15)
+sleep(21)
 ##select searchbar
 mouse.position = (404, 75)
 mouse.click(Button.left, 1)
@@ -127,7 +127,7 @@ sleep(1)
 mouse.position = (914, 556)
 mouse.click(Button.left, 1)
 ##sleep
-sleep(15)
+sleep(21)
 ##select searchbar
 mouse.position = (404, 75)
 mouse.click(Button.left, 1)
@@ -210,7 +210,7 @@ sleep(1)
 mouse.position = (914, 556)
 mouse.click(Button.left, 1)
 ##sleep
-sleep(15)
+sleep(21)
 ##select searchbar
 mouse.position = (404, 75)
 mouse.click(Button.left, 1)
@@ -292,7 +292,7 @@ sleep(1)
 mouse.position = (914, 556)
 mouse.click(Button.left, 1)
 ##sleep
-sleep(12)
+sleep(21)
 def first():
     url = ['gestyy.com/ey2pMV','gestyy.com/eyR2QO','gestyy.com/eyETAR']
     ##max tor
@@ -327,7 +327,7 @@ def first():
     keyboard.release(Key.enter)
     sleep(1)
     sleep(5) 
-    sleep(12)
+    sleep(15)
     ##max tor
     mouse.position = (975, 11)
     mouse.click(Button.left, 1)
@@ -465,6 +465,10 @@ while True:
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
+    sleep(1)
+    ##click yes2
+    mouse.position = (985, 359)
+    mouse.click(Button.left, 1)
     sleep(5)
     ##max tor
     mouse.position = (975, 11)
@@ -499,6 +503,10 @@ while True:
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
+    sleep(1)
+    ##click yes2
+    mouse.position = (985, 359)
+    mouse.click(Button.left, 1)
     sleep(5)
     ##max tor
     mouse.position = (975, 11)
@@ -531,6 +539,10 @@ while True:
     mouse.click(Button.left, 1)
     ##click yes
     mouse.position = (919, 380)
+    mouse.click(Button.left, 1)
+    sleep(1)
+    ##click yes2
+    mouse.position = (985, 359)
     mouse.click(Button.left, 1)
     sleep(5)
     ##max tor
@@ -565,6 +577,10 @@ while True:
     mouse.click(Button.left, 1)
     ##click yes
     mouse.position = (919, 380)
+    mouse.click(Button.left, 1)
+    sleep(1)
+    ##click yes2
+    mouse.position = (985, 359)
     mouse.click(Button.left, 1)
     sleep(5)
     ##max tor
