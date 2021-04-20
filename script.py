@@ -445,6 +445,13 @@ def reset():
     mouse.position = (999, 94)
     mouse.click(Button.left, 1)
     sleep(0.5)
+    mouse.position = (570, 408)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    mouse.position = (999, 94)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+
 
 
     ##scond page
@@ -470,6 +477,13 @@ def reset():
     mouse.position = (999, 94)
     mouse.click(Button.left, 1)
     sleep(0.5)
+    mouse.position = (570, 408)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    mouse.position = (999, 94)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+
 
     ##third page
     mouse.position = (238, 642)
@@ -494,6 +508,13 @@ def reset():
     mouse.position = (999, 94)
     mouse.click(Button.left, 1)
     sleep(0.5)
+    mouse.position = (570, 408)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    mouse.position = (999, 94)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+
 
 
     ##fourth page
@@ -519,6 +540,13 @@ def reset():
     mouse.position = (999, 94)
     mouse.click(Button.left, 1)
     sleep(0.5)
+    mouse.position = (570, 408)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    mouse.position = (999, 94)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+
 
 
 
@@ -678,7 +706,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(3)
+    sleep(6)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -721,7 +749,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(3)
+    sleep(6)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -764,7 +792,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(3)
+    sleep(6)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -808,7 +836,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(3)
+    sleep(6)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -835,7 +863,6 @@ while True:
     mouse.position = (365, 72)
     mouse.click(Button.left, 1)
     sleep(0.5)
-
     ##type url
     c = random.choice(url)
     keyboard.type(c)
