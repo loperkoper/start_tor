@@ -431,6 +431,41 @@ while True:
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
     sleep(1)
+    ##new identity
+    mouse.position = (1306, 70)
+    mouse.click(Button.left, 1)
+    sleep(2)
+    ##never ask again
+    mouse.position = (466, 342)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    ##click yes
+    mouse.position = (919, 380)
+    mouse.click(Button.left, 1)
+    sleep(4.5)
+    ##click yes2
+    mouse.position = (985, 359)
+    mouse.click(Button.left, 1)
+    sleep(6)
+    ##max tor
+    mouse.position = (975, 11)
+    mouse.click(Button.left, 1)
+    mouse.position = (1339, 40)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    ##click search bar
+    mouse.position = (365, 72)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    ##type url
+    c = random.choice(url)
+    keyboard.type(c)
+    sleep(0.5)
+    keyboard.press(Key.enter)
+    keyboard.release(Key.enter)
+    sleep(0.5)
+
+
     ##scond page
     mouse.position = (190, 642)
     mouse.click(Button.left, 1)
@@ -439,6 +474,41 @@ while True:
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
     sleep(1)
+    ##new identity
+    mouse.position = (1306, 70)
+    mouse.click(Button.left, 1)
+    sleep(2)
+    ##never ask again
+    mouse.position = (466, 342)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    ##click yes
+    mouse.position = (919, 380)
+    mouse.click(Button.left, 1)
+    sleep(4.5)
+    ##click yes2
+    mouse.position = (985, 359)
+    mouse.click(Button.left, 1)
+    sleep(6)
+    ##max tor
+    mouse.position = (975, 11)
+    mouse.click(Button.left, 1)
+    mouse.position = (1339, 40)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    ##click search bar
+    mouse.position = (365, 72)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    ##type url
+    c = random.choice(url)
+    keyboard.type(c)
+    sleep(0.5)
+    keyboard.press(Key.enter)
+    keyboard.release(Key.enter)
+    sleep(1)
+
+
     ##third page
     mouse.position = (238, 642)
     mouse.click(Button.left, 1)
@@ -447,6 +517,42 @@ while True:
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
     sleep(1)
+    ##new identity
+    mouse.position = (1306, 70)
+    mouse.click(Button.left, 1)
+    sleep(2)
+    ##never ask again
+    mouse.position = (466, 342)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    ##click yes
+    mouse.position = (919, 380)
+    mouse.click(Button.left, 1)
+    sleep(4.5)
+    ##click yes2
+    mouse.position = (985, 359)
+    mouse.click(Button.left, 1)
+    sleep(6)
+    ##max tor
+    mouse.position = (975, 11)
+    mouse.click(Button.left, 1)
+    mouse.position = (1339, 40)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    ##click search bar
+    mouse.position = (365, 72)
+    mouse.click(Button.left, 1)
+    sleep(0.5)
+    ##type url
+    c = random.choice(url)
+    keyboard.type(c)
+    sleep(0.5)
+    keyboard.press(Key.enter)
+    keyboard.release(Key.enter)
+    sleep(0.5)
+
+
+
     ##fourth page
     mouse.position = (280, 642)
     mouse.click(Button.left, 1)
@@ -455,12 +561,6 @@ while True:
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
     sleep(1)
-
-
-    ##go to first page
-    mouse.position = (142, 642)
-    mouse.click(Button.left, 1)
-    sleep(3)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -472,7 +572,7 @@ while True:
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
-    sleep(2)
+    sleep(4.5)
     ##click yes2
     mouse.position = (985, 359)
     mouse.click(Button.left, 1)
@@ -494,119 +594,4 @@ while True:
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
     sleep(0.5)
-
-
-    ##go to scond page
-    mouse.position = (190, 642)
-    mouse.click(Button.left, 1)
-    sleep(3)
-    ##new identity
-    mouse.position = (1306, 70)
-    mouse.click(Button.left, 1)
-    sleep(2)
-    ##never ask again
-    mouse.position = (466, 342)
-    mouse.click(Button.left, 1)
-    sleep(0.5)
-    ##click yes
-    mouse.position = (919, 380)
-    mouse.click(Button.left, 1)
-    sleep(2)
-    ##click yes2
-    mouse.position = (985, 359)
-    mouse.click(Button.left, 1)
-    sleep(6)
-    ##max tor
-    mouse.position = (975, 11)
-    mouse.click(Button.left, 1)
-    mouse.position = (1339, 40)
-    mouse.click(Button.left, 1)
-    sleep(0.5)
-    ##click search bar
-    mouse.position = (365, 72)
-    mouse.click(Button.left, 1)
-    sleep(0.5)
-    ##type url
-    c = random.choice(url)
-    keyboard.type(c)
-    sleep(0.5)
-    keyboard.press(Key.enter)
-    keyboard.release(Key.enter)
-    sleep(0.5)
-
-    ##go to third page
-    mouse.position = (238, 642)
-    mouse.click(Button.left, 1)
-    sleep(3)
-    ##new identity
-    mouse.position = (1306, 70)
-    mouse.click(Button.left, 1)
-    sleep(2)
-    ##never ask again
-    mouse.position = (466, 342)
-    mouse.click(Button.left, 1)
-    sleep(0.5)
-    ##click yes
-    mouse.position = (919, 380)
-    mouse.click(Button.left, 1)
-    sleep(2)
-    ##click yes2
-    mouse.position = (985, 359)
-    mouse.click(Button.left, 1)
-    sleep(6)
-    ##max tor
-    mouse.position = (975, 11)
-    mouse.click(Button.left, 1)
-    mouse.position = (1339, 40)
-    mouse.click(Button.left, 1)
-    sleep(0.5)
-    ##click search bar
-    mouse.position = (365, 72)
-    mouse.click(Button.left, 1)
-    sleep(0.5)
-    ##type url
-    c = random.choice(url)
-    keyboard.type(c)
-    sleep(0.5)
-    keyboard.press(Key.enter)
-    keyboard.release(Key.enter)
-    sleep(0.5)
-
-
-    ##go to fourth page
-    mouse.position = (280, 642)
-    mouse.click(Button.left, 1)
-    sleep(3)
-    ##new identity
-    mouse.position = (1306, 70)
-    mouse.click(Button.left, 1)
-    sleep(2)
-    ##never ask again
-    mouse.position = (466, 342)
-    mouse.click(Button.left, 1)
-    sleep(0.5)
-    ##click yes
-    mouse.position = (919, 380)
-    mouse.click(Button.left, 1)
-    sleep(2)
-    ##click yes2
-    mouse.position = (985, 359)
-    mouse.click(Button.left, 1)
-    sleep(6)
-    ##max tor
-    mouse.position = (975, 11)
-    mouse.click(Button.left, 1)
-    mouse.position = (1339, 40)
-    mouse.click(Button.left, 1)
-    sleep(0.5)
-    ##click search bar
-    mouse.position = (365, 72)
-    mouse.click(Button.left, 1)
-    sleep(0.5)
-    ##type url
-    c = random.choice(url)
-    keyboard.type(c)
-    sleep(0.5)
-    keyboard.press(Key.enter)
-    keyboard.release(Key.enter)
-    sleep(0.5)
+    
