@@ -48,6 +48,7 @@ sleep(21)
 ##select searchbar
 mouse.position = (404, 75)
 mouse.click(Button.left, 1)
+sleep(0.5)
 ##type
 keyboard.type('a')
 sleep(0.09)
@@ -131,6 +132,7 @@ sleep(21)
 ##select searchbar
 mouse.position = (404, 75)
 mouse.click(Button.left, 1)
+sleep(0.5)
 ##type
 keyboard.type('a')
 sleep(0.09)
@@ -214,6 +216,7 @@ sleep(21)
 ##select searchbar
 mouse.position = (404, 75)
 mouse.click(Button.left, 1)
+sleep(0.5)
 ##type
 keyboard.type('a')
 sleep(0.09)
@@ -304,7 +307,7 @@ def first():
     ##click search bar
     mouse.position = (365, 72)
     mouse.click(Button.left, 1)
-    sleep(0.1)
+    sleep(0.5)
     ##type url
     c = random.choice(url)
     keyboard.type(c)
@@ -337,7 +340,7 @@ def first():
     ##click search bar
     mouse.position = (365, 72)
     mouse.click(Button.left, 1)
-    sleep(0.1)
+    sleep(0.5)
     ##type url
     c = random.choice(url)
     keyboard.type(c)
@@ -371,7 +374,7 @@ def first():
     ##click search bar
     mouse.position = (365, 72)
     mouse.click(Button.left, 1)
-    sleep(0.1)
+    sleep(0.5)
     ##type url
     c = random.choice(url)
     keyboard.type(c)
@@ -405,7 +408,7 @@ def first():
     ##click search bar
     mouse.position = (365, 72)
     mouse.click(Button.left, 1)
-    sleep(0.1)
+    sleep(0.5)
     ##type url
     c = random.choice(url)
     keyboard.type(c)
