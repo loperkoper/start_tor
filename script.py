@@ -314,6 +314,7 @@ def first():
     sleep(0.5)
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
+    sleep(1)
     ##go to second page
     mouse.position = (190, 642)
     mouse.click(Button.left, 1)  
@@ -347,6 +348,7 @@ def first():
     sleep(0.5)
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
+    sleep(1)
 
     ##go to third page
     mouse.position = (238, 642)
@@ -381,6 +383,7 @@ def first():
     sleep(0.5)
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
+    sleep(1)
 
     ##go to fourth page
     mouse.position = (280, 642)
@@ -415,7 +418,7 @@ def first():
     sleep(0.5)
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
-
+    sleep(3)
 first()
 
 while True:
@@ -461,10 +464,11 @@ while True:
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(2)
     ##never ask again
     mouse.position = (466, 342)
     mouse.click(Button.left, 1)
+    sleep(0.5)
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
@@ -499,10 +503,11 @@ while True:
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(2)
     ##never ask again
     mouse.position = (466, 342)
     mouse.click(Button.left, 1)
+    sleep(0.5)
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
@@ -536,10 +541,11 @@ while True:
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(2)
     ##never ask again
     mouse.position = (466, 342)
     mouse.click(Button.left, 1)
+    sleep(0.5)
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
@@ -547,7 +553,7 @@ while True:
     ##click yes2
     mouse.position = (985, 359)
     mouse.click(Button.left, 1)
-    sleep(5)
+    sleep(6)
     ##max tor
     mouse.position = (975, 11)
     mouse.click(Button.left, 1)
@@ -574,10 +580,11 @@ while True:
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(2)
     ##never ask again
     mouse.position = (466, 342)
     mouse.click(Button.left, 1)
+    sleep(0.5)
     ##click yes
     mouse.position = (919, 380)
     mouse.click(Button.left, 1)
