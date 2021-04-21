@@ -659,7 +659,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(6)
+    sleep(9)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -702,7 +702,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(6)
+    sleep(9)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -745,7 +745,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(6)
+    sleep(9)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
@@ -789,7 +789,7 @@ while True:
     ##click on skip add
     mouse.position = (1222, 121)
     mouse.click(Button.left, 1)
-    sleep(6)
+    sleep(9)
     ##new identity
     mouse.position = (1306, 70)
     mouse.click(Button.left, 1)
