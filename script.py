@@ -647,7 +647,7 @@ def reset():
 i = 0
 while True:
    i = i+1
-   if i == 20:
+   if i == 15:
     reset()
     i = 0
    else:
