@@ -515,10 +515,11 @@ def reset():
     ##click on configure
     mouse.position = (760, 297)
     mouse.click(Button.left, 1)
-    sleep(1)
+    sleep(2)
     ##click on connect
     mouse.position = (914, 556)
     mouse.click(Button.left, 1)
+    sleep(15)
 
     url = ['gestyy.com/ey2pMV','gestyy.com/eyR2QO','gestyy.com/eyETAR']
     ##max tor
