@@ -4,6 +4,6 @@
 ClientOnionAuthDir /root/Desktop/tor-browser_en-US/Browser/TorBrowser/Data/Tor/onion-auth
 DataDirectory /root/Desktop/tor-browser_en-US/Browser/TorBrowser/Data/Tor
 EntryNodes {us} StrictNodes 1
-ExitNodes {us},{ca},{uk} StrictNodes 1
+ExitNodes {us},{ca},{gb} StrictNodes 1
 GeoIPFile /root/Desktop/tor-browser_en-US/Browser/TorBrowser/Data/Tor/geoip
 GeoIPv6File /root/Desktop/tor-browser_en-US/Browser/TorBrowser/Data/Tor/geoip6
