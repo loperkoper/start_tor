@@ -11,24 +11,24 @@ url = ['gestyy.com/ey2pMV','gestyy.com/eyR2QO','gestyy.com/eyETAR']
 def terminal():
         # #select terminal
 
-    mouse.position = (10, 712)
+    mouse.position = (17, 519)
     mouse.click(Button.left, 1)
     sleep(1.5)
-    mouse.position = (58, 491)
+    mouse.position = (112, 370)
     mouse.click(Button.left, 1)
     sleep(1.5)
-    mouse.position = (251, 519)
+    mouse.position = (247, 389)
     mouse.click(Button.left, 1)
     sleep(1.5)
 
         # #select on terminal
 
-    mouse.position = (570, 408)
+    mouse.position = (641, 342)
     mouse.click(Button.left, 1)
     sleep(1)
 #cd /root/Desktop/tor1/tor-browser_en-US/Browser/
 ##minimize Terminal
-mouse.position = (968, 94)
+mouse.position = (968, 34)
 mouse.click(Button.left, 1) 
 sleep(1)  
 terminal()
@@ -41,12 +41,12 @@ keyboard.release(Key.enter)
 sleep(1)
 sleep(5)
 ##click on connect
-mouse.position = (592, 300)
+mouse.position = (592, 249)
 mouse.click(Button.left, 1)
 ##sleep
 sleep(21)
 ##select searchbar
-mouse.position = (404, 75)
+mouse.position = (404, 76)
 mouse.click(Button.left, 1)
 sleep(0.5)
 ##type
@@ -78,11 +78,11 @@ keyboard.press(Key.enter)
 keyboard.release(Key.enter)
 sleep(1)
 ##select to accept risk
-mouse.position = (265, 413)
+mouse.position = (355, 316)
 mouse.click(Button.left, 1)
 sleep(1)
 ##select to type
-mouse.position = (301, 121)
+mouse.position = (467, 118)
 mouse.click(Button.left, 1)
 sleep(0.5)
 ##type
@@ -92,18 +92,18 @@ keyboard.press(Key.enter)
 keyboard.release(Key.enter)
 sleep(1)
 ##change to false
-mouse.position = (933, 168)
+mouse.position = (930, 171)
 mouse.click(Button.left, 1)
 sleep(1.5)
 ##close tor
-mouse.position = (990, 10)
+mouse.position = (991, 11)
 mouse.click(Button.left, 1)
 sleep(1.5)
 ##close Terminal
 mouse.position = (570, 408)
 mouse.click(Button.left, 1)
 sleep(0.5)
-mouse.position = (999, 94)
+mouse.position = (1001, 34)
 mouse.click(Button.left, 1)
 sleep(0.5)
 terminal()
@@ -121,16 +121,16 @@ keyboard.release(Key.enter)
 sleep(1)
 sleep(5)
 ##click on configure
-mouse.position = (760, 297)
+mouse.position = (766, 252)
 mouse.click(Button.left, 1)
 sleep(1)
 ##click on connect
-mouse.position = (914, 556)
+mouse.position = (934, 476)
 mouse.click(Button.left, 1)
 ##sleep
 sleep(21)
 ##select searchbar
-mouse.position = (404, 75)
+mouse.position = (404, 76)
 mouse.click(Button.left, 1)
 sleep(0.5)
 ##type
@@ -162,11 +162,11 @@ keyboard.press(Key.enter)
 keyboard.release(Key.enter)
 sleep(1)
 ##select to accept risk
-mouse.position = (265, 413)
+mouse.position = (355, 316)
 mouse.click(Button.left, 1)
 sleep(1)
 ##select to type
-mouse.position = (301, 121)
+mouse.position = (467, 118)
 mouse.click(Button.left, 1)
 sleep(0.5)
 ##type
@@ -176,18 +176,18 @@ keyboard.press(Key.enter)
 keyboard.release(Key.enter)
 sleep(1)
 ##change to false
-mouse.position = (933, 168)
+mouse.position = (930, 171)
 mouse.click(Button.left, 1)
 sleep(1.5)
 ##close tor
-mouse.position = (990, 10)
+mouse.position = (991, 11)
 mouse.click(Button.left, 1)
 sleep(1.5)
 ##close Terminal
 mouse.position = (570, 408)
 mouse.click(Button.left, 1)
 sleep(0.5)
-mouse.position = (999, 94)
+mouse.position = (1001, 34)
 mouse.click(Button.left, 1)
 sleep(0.5)
 terminal()
@@ -205,16 +205,16 @@ keyboard.release(Key.enter)
 sleep(1)
 sleep(5)
 ##click on configure
-mouse.position = (760, 297)
+mouse.position = (766, 252)
 mouse.click(Button.left, 1)
 sleep(1)
 ##click on connect
-mouse.position = (914, 556)
+mouse.position = (934, 476)
 mouse.click(Button.left, 1)
 ##sleep
 sleep(21)
 ##select searchbar
-mouse.position = (404, 75)
+mouse.position = (404, 76)
 mouse.click(Button.left, 1)
 sleep(0.5)
 ##type
@@ -246,11 +246,11 @@ keyboard.press(Key.enter)
 keyboard.release(Key.enter)
 sleep(1)
 ##select to accept risk
-mouse.position = (265, 413)
+mouse.position = (355, 316)
 mouse.click(Button.left, 1)
 sleep(1)
 ##select to type
-mouse.position = (301, 121)
+mouse.position = (467, 118)
 mouse.click(Button.left, 1)
 sleep(0.5)
 ##type
@@ -260,18 +260,18 @@ keyboard.press(Key.enter)
 keyboard.release(Key.enter)
 sleep(1)
 ##change to false
-mouse.position = (933, 168)
+mouse.position = (930, 171)
 mouse.click(Button.left, 1)
 sleep(1.5)
 ##close tor
-mouse.position = (990, 10)
+mouse.position = (991, 11)
 mouse.click(Button.left, 1)
 sleep(1.5)
 ##close Terminal
 mouse.position = (570, 408)
 mouse.click(Button.left, 1)
 sleep(0.5)
-mouse.position = (999, 94)
+mouse.position = (1001, 34)
 mouse.click(Button.left, 1)
 sleep(0.5)
 terminal()
@@ -288,24 +288,27 @@ keyboard.press(Key.enter)
 keyboard.release(Key.enter)
 sleep(5)
 ##click on configure
-mouse.position = (760, 297)
+mouse.position = (766, 252)
 mouse.click(Button.left, 1)
 sleep(1)
 ##click on connect
-mouse.position = (914, 556)
+mouse.position = (934, 476)
 mouse.click(Button.left, 1)
 ##sleep
 sleep(21)
+
+
+
 def first():
     url = ['gestyy.com/ey2pMV','gestyy.com/eyR2QO','gestyy.com/eyETAR']
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -316,7 +319,7 @@ def first():
     keyboard.release(Key.enter)
     sleep(1)
     ##go to second page
-    mouse.position = (190, 642)
+    mouse.position = (194, 517)
     mouse.click(Button.left, 1)  
     sleep(1.5)
     terminal()
@@ -333,13 +336,13 @@ def first():
     sleep(5) 
     sleep(15)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -351,7 +354,7 @@ def first():
     sleep(1)
 
     ##go to third page
-    mouse.position = (238, 642)
+    mouse.position = (279, 515)
     mouse.click(Button.left, 1)  
     sleep(1.5)
     terminal()
@@ -368,13 +371,13 @@ def first():
     sleep(5) 
     sleep(12)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -386,7 +389,7 @@ def first():
     sleep(1)
 
     ##go to fourth page
-    mouse.position = (280, 642)
+    mouse.position = (322, 516)
     mouse.click(Button.left, 1)  
     sleep(2)
     terminal()
@@ -403,13 +406,13 @@ def first():
     sleep(5) 
     sleep(12)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -423,87 +426,88 @@ first()
 
 def reset():
     ##go to first page
-    mouse.position = (142, 642)
+    mouse.position = (152, 517)
     mouse.click(Button.left, 1)
     sleep(3)
     ##close Terminal
-    mouse.position = (535, 640)
+    mouse.position = (576, 519)
     mouse.click(Button.right, 1)
     sleep(0.5)
-    mouse.position = (505, 622)
+    mouse.position = (518, 490)
     mouse.click(Button.left, 1)
     sleep(0.5)
-    mouse.position = (535, 640)
+    mouse.position = (576, 519)
     mouse.click(Button.right, 1)
     sleep(0.5)
-    mouse.position = (505, 622)
+    mouse.position = (518, 490)
     mouse.click(Button.left, 1)
     sleep(0.5)
-
 
 
     ##scond page
-    mouse.position = (190, 642)
+    mouse.position = (209, 520)
     mouse.click(Button.left, 1)
     sleep(3)
     ##close Terminal
-    mouse.position = (389, 638)
+    mouse.position = (401, 517)
     mouse.click(Button.right, 1)
     sleep(0.5)
-    mouse.position = (357, 613)
+    mouse.position = (370, 495)
     mouse.click(Button.left, 1)
     sleep(0.5)
-    mouse.position = (389, 638)
+    mouse.position = (401, 517)
     mouse.click(Button.right, 1)
     sleep(0.5)
-    mouse.position = (357, 613)
+    mouse.position = (370, 495)
     mouse.click(Button.left, 1)
     sleep(0.5)
 
 
     ##third page
-    mouse.position = (238, 642)
+    mouse.position = (259, 517)
     mouse.click(Button.left, 1)
     sleep(3)
     ##close Terminal
-    mouse.position = (389, 638)
+    mouse.position = (401, 517)
     mouse.click(Button.right, 1)
     sleep(0.5)
-    mouse.position = (357, 613)
+    mouse.position = (370, 495)
     mouse.click(Button.left, 1)
     sleep(0.5)
-    mouse.position = (389, 638)
+    mouse.position = (401, 517)
     mouse.click(Button.right, 1)
     sleep(0.5)
-    mouse.position = (357, 613)
+    mouse.position = (370, 495)
     mouse.click(Button.left, 1)
     sleep(0.5)
+    
 
 
     ##fourth page
-    mouse.position = (280, 642)
+    mouse.position = (318, 515)
     mouse.click(Button.left, 1)
     sleep(3)
     ##close Terminal
-    mouse.position = (389, 638)
+    mouse.position = (401, 517)
     mouse.click(Button.right, 1)
     sleep(0.5)
-    mouse.position = (357, 613)
+    mouse.position = (370, 495)
     mouse.click(Button.left, 1)
     sleep(0.5)
-    mouse.position = (389, 638)
+    mouse.position = (401, 517)
     mouse.click(Button.right, 1)
     sleep(0.5)
-    mouse.position = (357, 613)
+    mouse.position = (370, 495)
     mouse.click(Button.left, 1)
     sleep(0.5)
+    
 
 
 
 
 
     ##go to first page
-    mouse.position = (142, 642)
+    mouse.position = (150, 518)
     mouse.click(Button.left, 1)
     terminal()
     ##type
@@ -513,23 +517,31 @@ def reset():
     keyboard.release(Key.enter)
     sleep(5)
     ##click on configure
-    mouse.position = (760, 297)
+    mouse.position = (766, 252)
     mouse.click(Button.left, 1)
-    sleep(2)
+    sleep(1)
     ##click on connect
-    mouse.position = (914, 556)
+    mouse.position = (934, 476)
     mouse.click(Button.left, 1)
     sleep(15)
 
+
+
     url = ['gestyy.com/ey2pMV','gestyy.com/eyR2QO','gestyy.com/eyETAR']
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
+
+
+
+
+
+    
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -540,7 +552,7 @@ def reset():
     keyboard.release(Key.enter)
     sleep(1)
     ##go to second page
-    mouse.position = (190, 642)
+    mouse.position = (210, 519)
     mouse.click(Button.left, 1)  
     sleep(1.5)
     terminal()
@@ -557,13 +569,13 @@ def reset():
     sleep(5) 
     sleep(15)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -575,7 +587,7 @@ def reset():
     sleep(1)
 
     ##go to third page
-    mouse.position = (238, 642)
+    mouse.position = (258, 514)
     mouse.click(Button.left, 1)  
     sleep(1.5)
     terminal()
@@ -592,13 +604,13 @@ def reset():
     sleep(5) 
     sleep(12)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -610,7 +622,7 @@ def reset():
     sleep(1)
 
     ##go to fourth page
-    mouse.position = (280, 642)
+    mouse.position = (327, 515)
     mouse.click(Button.left, 1)  
     sleep(2)
     terminal()
@@ -627,13 +639,13 @@ def reset():
     sleep(5) 
     sleep(12)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -653,37 +665,37 @@ while True:
    else:
     url = ['gestyy.com/ey2pMV','gestyy.com/eyR2QO','gestyy.com/eyETAR']
     ##go to first page
-    mouse.position = (142, 642)
+    mouse.position = (156, 518)
     mouse.click(Button.left, 1)
     sleep(3)
     ##click on skip add
-    mouse.position = (1222, 121)
+    mouse.position = (1198, 121)
     mouse.click(Button.left, 1)
     sleep(12)
     ##new identity
-    mouse.position = (1306, 70)
+    mouse.position = (1306, 75)
     mouse.click(Button.left, 1)
     sleep(2)
     ##never ask again
-    mouse.position = (466, 342)
+    mouse.position = (466, 281)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click yes
-    mouse.position = (919, 380)
+    mouse.position = (918, 314)
     mouse.click(Button.left, 1)
     sleep(4.5)
     ##click yes2
-    mouse.position = (985, 359)
+    mouse.position = (961, 301)
     mouse.click(Button.left, 1)
     sleep(6)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -696,37 +708,37 @@ while True:
 
 
     ##scond page
-    mouse.position = (190, 642)
+    mouse.position = (211, 517)
     mouse.click(Button.left, 1)
     sleep(3)
     ##click on skip add
-    mouse.position = (1222, 121)
+    mouse.position = (1198, 121)
     mouse.click(Button.left, 1)
     sleep(12)
     ##new identity
-    mouse.position = (1306, 70)
+    mouse.position = (1306, 75)
     mouse.click(Button.left, 1)
     sleep(2)
     ##never ask again
-    mouse.position = (466, 342)
+    mouse.position = (466, 281)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click yes
-    mouse.position = (919, 380)
+    mouse.position = (918, 314)
     mouse.click(Button.left, 1)
     sleep(4.5)
     ##click yes2
-    mouse.position = (985, 359)
+    mouse.position = (961, 301)
     mouse.click(Button.left, 1)
     sleep(6)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -738,38 +750,39 @@ while True:
     sleep(1)
 
 
+
     ##third page
-    mouse.position = (238, 642)
+    mouse.position = (269, 520)
     mouse.click(Button.left, 1)
     sleep(3)
     ##click on skip add
-    mouse.position = (1222, 121)
+    mouse.position = (1198, 121)
     mouse.click(Button.left, 1)
     sleep(12)
     ##new identity
-    mouse.position = (1306, 70)
+    mouse.position = (1306, 75)
     mouse.click(Button.left, 1)
     sleep(2)
     ##never ask again
-    mouse.position = (466, 342)
+    mouse.position = (466, 281)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click yes
-    mouse.position = (919, 380)
+    mouse.position = (918, 314)
     mouse.click(Button.left, 1)
     sleep(4.5)
     ##click yes2
-    mouse.position = (985, 359)
+    mouse.position = (961, 301)
     mouse.click(Button.left, 1)
     sleep(6)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -783,37 +796,37 @@ while True:
 
 
     ##fourth page
-    mouse.position = (280, 642)
+    mouse.position = (319, 514)
     mouse.click(Button.left, 1)
     sleep(3)
     ##click on skip add
-    mouse.position = (1222, 121)
+    mouse.position = (1198, 121)
     mouse.click(Button.left, 1)
     sleep(12)
     ##new identity
-    mouse.position = (1306, 70)
+    mouse.position = (1306, 75)
     mouse.click(Button.left, 1)
     sleep(2)
     ##never ask again
-    mouse.position = (466, 342)
+    mouse.position = (466, 281)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click yes
-    mouse.position = (919, 380)
+    mouse.position = (918, 314)
     mouse.click(Button.left, 1)
     sleep(4.5)
     ##click yes2
-    mouse.position = (985, 359)
+    mouse.position = (961, 301)
     mouse.click(Button.left, 1)
     sleep(6)
     ##max tor
-    mouse.position = (975, 11)
+    mouse.position = (975, 10)
     mouse.click(Button.left, 1)
     mouse.position = (1339, 40)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##click search bar
-    mouse.position = (365, 72)
+    mouse.position = (595, 74)
     mouse.click(Button.left, 1)
     sleep(0.5)
     ##type url
@@ -823,3 +836,4 @@ while True:
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
     sleep(1)
+
