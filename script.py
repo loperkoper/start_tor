@@ -836,4 +836,3 @@ while True:
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
     sleep(1)
-
